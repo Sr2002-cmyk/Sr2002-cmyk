@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning new technologies which include new advanced frameworks etc.
 - 💞️ I’m looking to collaborate on Development projects which can boost my skills
 - 📫 How to reach me Mailto:sonurajesh785@gmail.com
-- 😄 Pronouns: SHe/Her
+- 😄 Pronouns: She/Her
 
 
 <!---
